@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>CharacterCopy.Kata.Dependencies</title>
+    <authors>T-rav</authors>
+    <owners></owners>
+    <projectUrl>https://github.com/T-rav/CharacterCopy.Kata.Dependencies</projectUrl>
+    <imageUrl>https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Copy_font_awesome.svg/512px-Copy_font_awesome.svg.png</imageUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Dependencies for the Character Copy Kata</description>
+    <summary>
+    Dependencies for the Character Copy Kata
+    </summary>
+    <releaseNotes>Init Release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>TDD Kata</tags>
+  </metadata>
+</package>
